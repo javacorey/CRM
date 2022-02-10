@@ -8737,6 +8737,12 @@ msgid "Event not found"
 msgstr "Evénement introuvable"
 
 #: 
+msgid "Session timeout length in seconds\n"
+"Set to zero to disable session timeouts."
+msgstr "Délai d'expiration de la session en secondes\n"
+"Saisissez zéro pour désactiver les délais d'expiration de session."
+
+#: 
 msgid "Minimum amount that a new password must differ from the old one (# of characters changed)\n"
 "Set to zero to disable this feature"
 msgstr "Nombre minimal de caractères à changer lors d'un changement de mot de passe. Mettre zéro pour désactiver cette fonctionnalité."
@@ -8812,6 +8818,10 @@ msgstr "Périodicité de vérification de mises à jour"
 #: 
 msgid "Last Software Update Check Timestamp"
 msgstr "Dernière mise à jour"
+
+#: 
+msgid "Search Calendar Events"
+msgstr "Rechercher des événements du calendrier"
 
 #: 
 msgid "%d month old"
@@ -8928,8 +8938,20 @@ msgid "Two factor authentication requires ChurchCRM administrators to configure 
 msgstr "L'authentification à 2 facteurs nécessite une intervention de l'administrateur ChurchCRM"
 
 #: 
+msgid "System configuration "
+msgstr "Configuration Système "
+
+#: 
+msgid "Your new password must not match your old one."
+msgstr "Votre nouveau mot de passe doit être différent de l'ancien."
+
+#: 
 msgid "Your new password is too similar to your old one."
 msgstr "Le nouveau mot de passe est trop similaire à l'ancien"
+
+#: 
+msgid "Password reset not availble.  Please contact your system administrator"
+msgstr "Réinitialisation du mot de passe non disponible. Veuillez contacter votre administrateur système"
 
 #: 
 msgid "Authentication Issue"
@@ -8992,6 +9014,14 @@ msgid "Enable Password Reset"
 msgstr "Activer la réinitialisation de mot de passe"
 
 #: 
+msgid "Min Password Length"
+msgstr "Longueur minimale du mot de passe"
+
+#: 
+msgid "Failed Login"
+msgstr "Echec de l'Authentification"
+
+#: 
 msgid "Pledge"
 msgstr "Promesses de dons"
 
@@ -9002,6 +9032,10 @@ msgstr "Payé"
 #: 
 msgid "Start Date"
 msgstr "Date de début"
+
+#: 
+msgid "This field is required"
+msgstr "Ce champ est obligatoire"
 
 #: 
 msgid "Text"
